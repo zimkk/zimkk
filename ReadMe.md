@@ -31,14 +31,6 @@ I'm a passionate **DevOps Engineer** and **Machine Learning Enthusiast** with a 
 
 ![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zimkk&theme=onedark)
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Deploying ML Models with Kubernetes](#)
-- [Automating Infrastructure with Terraform](#)
-- [Continuous Integration Strategies for Machine Learning](#)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassannazirrr/)
