@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **DevOps Engineer** and **Machine Learning Enthusiast** with a strong background in automating infrastructures and deploying scalable ML models. I thrive on bridging the gap between development and operations, ensuring seamless integration and delivery.
+I'm a passionate **DevOps Engineer** and **Machine Learning Enthusiast** with a strong background in automating infrastructures and deploying/fine-tuning scalable ML models. I thrive on bridging the gap between development and operations, ensuring seamless integration and delivery.
 
 -  I’m currently working on automating deployment pipelines and exploring MLOps practices.
 -  I’m learning more about Kubernetes orchestration and advanced machine learning algorithms.
