@@ -1,0 +1,38 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs once daily at midnight UTC
+  workflow_dispatch:       # Allows manual trigger from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out the repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Generate the snake.svg using Platane's action
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: zimkk
+          outputs: snake.svg
+
+      # Save the generated snake.svg to the output branch
+      - name: Commit and push to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Create or switch to 'output' branch
+          git fetch origin output || true
+          git checkout -B output
+
+          # Move generated file and commit
+          mv snake.svg snake.svg
+          git add snake.svg
+          git commit -m "chore: update contribution snake [skip ci]" || echo "No changes to commit"
+          git push origin output --force
