@@ -1,6 +1,6 @@
 # Hi there, I'm Hassan Nazir! 👋
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **DevOps Engineer** and **Machine Learning Enthusiast** with a strong background in automating infrastructures and deploying/fine-tuning scalable ML models. I thrive on bridging the gap between development and operations, ensuring seamless integration and delivery.
 
@@ -11,7 +11,7 @@ I'm a passionate **DevOps Engineer** and **Machine Learning Enthusiast** with a 
 -  How to reach me: [LinkedIn](https://www.linkedin.com/in/hassannazirrr/)
 -  I love solving complex problems and optimizing system performance.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -23,15 +23,15 @@ I'm a passionate **DevOps Engineer** and **Machine Learning Enthusiast** with a 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zimkk&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 ![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zimkk&theme=onedark)
 
-## 🤝 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassannazirrr/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zimkk_)
