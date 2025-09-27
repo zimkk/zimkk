@@ -1,39 +1,52 @@
-# Hi there, I'm Hassan Nazir! 👋
+# Hassan Nazir  
 
-## About Me
+**AI & Automation Engineer**  
+Focused on building **scalable AI systems, LLM fine-tuning, and intelligent workflow automation**.  
+I design and deliver production-ready AI solutions that reduce costs, improve efficiency, and serve thousands of users reliably.  
 
-I'm a passionate **DevOps Engineer** and **Machine Learning Enthusiast** with a strong background in automating infrastructures and deploying/fine-tuning scalable ML models. I thrive on bridging the gap between development and operations, ensuring seamless integration and delivery.
+📌 [Portfolio](http://www.hassannazir.dev) • [LinkedIn](https://www.linkedin.com/in/hassannazirrr/) • [Email](mailto:hassannazir955@gmail.com)  
 
--  I’m currently working on automating deployment pipelines and exploring MLOps practices.
--  I’m learning more about Kubernetes orchestration and advanced machine learning algorithms.
--  I’m looking to collaborate on open-source projects related to DevOps tools and ML frameworks.
--  Ask me about CI/CD, cloud infrastructure, or anything related to machine learning deployment.
--  How to reach me: [LinkedIn](https://www.linkedin.com/in/hassannazirrr/)
--  I love solving complex problems and optimizing system performance.
+---
 
-## Technologies & Tools
+## About Me  
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+- 3+ years of experience in **AI/ML engineering and automation**  
+- Delivered **150+ automation and fine-tuning projects** for clients worldwide  
+- Architected **multi-modal AI systems** with **vector search & RAG pipelines**  
+- Strong background in **DevOps for ML**, ensuring reliability and scalability  
 
-## GitHub Stats
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zimkk&show_icons=true&theme=radical)
+## Core Skills  
 
-## GitHub Trophies
+- **LLM & AI Systems** – Fine-tuning, RAG, multi-modal models, custom AI agents  
+- **Workflow Automation** – n8n, Make, LangChain, API orchestration  
+- **Cloud & DevOps** – AWS, Docker, Kubernetes, CI/CD for ML workloads  
+- **Databases** – PostgreSQL, MongoDB, Redis, Pinecone, Chroma  
 
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zimkk&theme=onedark)
+---
 
-## Connect with Me
+## Selected Work  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassannazirrr/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zimkk_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hassannazir955@gmail.com)
+- **AI Automation @ NDT Legacy Group** – Built 15+ custom AI agents, automated 10K+ daily transactions, served 5K+ users  
+- **QA Automation @ Brilliant Gaming** – Led team testing $2M+ monthly transactions, halved QA cycle time  
+- **DevOps @ Gridcore** – Designed ML pipelines with 1M+ daily API calls, 99.9% uptime across AWS regions  
+- **Freelance Projects** – 50+ LLM fine-tunes, 100+ automation workflows, 30+ computer vision solutions  
 
+---
+
+## Certifications  
+
+- Certified Ethical Hacker – Practical (CEH-P)  
+- Practical Ethical Hacking (PEH)  
+- ISO/IEC 27001 Information Security Associate  
+
+---
+
+## Contribution Graph Snake  
+
+![Snake Animation](https://raw.githubusercontent.com/zimkk/zimkk/output/github-contribution-grid-snake.svg)  
+
+---
+
+💡 Always open to collaboration on **AI automation, MLOps, and LLM-based systems**.  
