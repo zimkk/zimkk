@@ -45,7 +45,7 @@ I design and deliver production-ready AI solutions that reduce costs, improve ef
 
 ## Contribution Graph Snake  
 
-![Snake Animation](https://raw.githubusercontent.com/zimkk/zimkk/output/github-contribution-grid-snake.svg)  
+![Snake Animation](https://raw.githubusercontent.com/zimkk/zimkk/output/snake.svg)
 
 ---
 
