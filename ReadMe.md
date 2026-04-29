@@ -101,7 +101,7 @@ LangChain, Hugging Face, OpenAI API, Claude API, PyTorch, TensorFlow
 React, Next.js  
 
 **Backend**  
-Node.js, Express.js  
+FastAPI, Node.js, Express.js, Django
 
 **Cloud & Infrastructure**  
 AWS, GCP, Docker, Kubernetes, Jenkins  
