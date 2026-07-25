@@ -1,0 +1,23 @@
+<svg width="1600" height="440" viewBox="0 0 1600 440" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="440" fill="#000000"/>
+<g opacity="0.35">
+<path d="M0 350C260 280 420 410 700 325C980 240 1220 300 1600 190" stroke="#1A4FFF"/>
+<path d="M0 385C260 315 440 445 720 360C1000 275 1230 335 1600 225" stroke="#1A4FFF"/>
+<path d="M0 420C260 350 460 480 740 395C1010 310 1260 370 1600 260" stroke="#1A4FFF"/>
+</g>
+<g opacity="0.28">
+<circle cx="1320" cy="125" r="190" stroke="#1A4FFF"/>
+<circle cx="1320" cy="125" r="140" stroke="#1A4FFF"/>
+<circle cx="1320" cy="125" r="90" stroke="#1A4FFF"/>
+<path d="M1130 125H1510M1320 -65V315" stroke="#1A4FFF"/>
+</g>
+<g opacity="0.16">
+<path d="M980 0V440M1080 0V440M1180 0V440M1280 0V440M1380 0V440M1480 0V440" stroke="#FFFFFF"/>
+<path d="M900 80H1600M900 180H1600M900 280H1600M900 380H1600" stroke="#FFFFFF"/>
+</g>
+<text x="100" y="165" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700">HASSAN NAZIR</text>
+<text x="104" y="225" fill="#1A4FFF" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="5">AI SYSTEMS • FULL-STACK • AUTOMATION</text>
+<text x="104" y="278" fill="#B0B0B0" font-family="Arial, Helvetica, sans-serif" font-size="21">Building intelligent systems that connect reasoning with execution.</text>
+<text x="104" y="325" fill="#666666" font-family="monospace" font-size="17">architect → build → deploy → automate → iterate</text>
+<text x="104" y="380" fill="#1A4FFF" font-family="monospace" font-size="14">[ SYSTEMS ENGINEER / AI AUTOMATION / FULL-STACK BUILDER ]</text>
+</svg>
