@@ -1,4 +1,4 @@
-<img src="./header.svg" width="100%" alt="Hassan Nazir — Forward Deployed Engineer · Full-Stack · Applied AI & Automation"/>
+<img src="./hero.svg" width="100%" alt="Hassan Nazir, Forward Deployed Engineer. Full-Stack, Applied AI and Automation"/>
 
 <br/>
 
@@ -20,18 +20,19 @@
 
 <br/>
 
-**Forward Deployed Engineer** — I embed where the problems live, translate messy real-world requirements into working systems, and ship them end-to-end. Full-stack engineering is the foundation; applied AI and intelligent automation are the force multipliers.
+**Forward Deployed Engineer** based in Islamabad, Pakistan. I take ambiguous customer problems from technical discovery to production in live environments: embed with the actual users, learn the actual workflow, then build and ship the system end-to-end. Full-stack engineering is the foundation; applied AI and intelligent automation are the force multipliers.
 
-The work I like most sits at the edge: sitting with the actual users, understanding the actual workflow, then building the product — frontend to infra — that makes it disappear into software. LLM applications, agentic systems, RAG pipelines, and workflow automation aren't the goal; they're the toolkit for making that happen faster.
+Hands-on across the stack (React, Next.js, TypeScript, NestJS, Python) and in applied AI (LLM systems, RAG, multi-agent orchestration, MCP), with a track record of owning outcomes through adoption, not just delivery.
 
-> **Still learning, always shipping.** I build software that can reason, act, automate — and survive production.
+> **Still learning, always shipping.** I build software that can reason, act, automate, and survive production.
 
 ```text
-> STATUS ────────────────────────────────────────────────
-  [▓▓▓▓▓▓▓▓▓░] currently   : building a full-stack travel-tech platform (FastAPI · Postgres · Next.js)
-  [▓▓▓▓▓▓▓░░░] also        : growing n8nHub — reusable AI automation workflows
-  [▓▓▓▓▓░░░░░] exploring   : agent-native software, MCP, local models
-  [██████████] always      : shipping
+> STATUS -----------------------------------------------------------------
+  [#########.] currently  : AI Architect @ Uno O.S. (production AI systems & agent infra)
+  [########..] shipping   : full-stack platforms in React/Next.js + NestJS/PostgreSQL
+  [#######...] also       : growing n8nHub, a library of reusable AI automation workflows
+  [######....] exploring  : agent-native software, MCP servers, local models
+  [##########] always     : shipping
 ```
 
 <img src="./divider.svg" width="100%" alt=""/>
@@ -40,16 +41,17 @@ The work I like most sits at the edge: sitting with the actual users, understand
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><b>3+</b><br/><sub>Years Building AI & Automation</sub></td>
-<td width="25%" align="center"><b>10K+</b><br/><sub>Users on Shipped Platforms</sub></td>
-<td width="25%" align="center"><b>10K+</b><br/><sub>Daily Automated Transactions</sub></td>
-<td width="25%" align="center"><b>40%</b><br/><sub>Operational Cost Reduction Delivered</sub></td>
+<td width="20%" align="center"><b>99.9%</b><br/><sub>Production Reliability</sub></td>
+<td width="20%" align="center"><b>10K+</b><br/><sub>Daily Automated Transactions</sub></td>
+<td width="20%" align="center"><b>10K+</b><br/><sub>Users on Shipped Platforms</sub></td>
+<td width="20%" align="center"><b>100+</b><br/><sub>AI Automation Solutions Delivered</sub></td>
+<td width="20%" align="center"><b>40%</b><br/><sub>Operational Cost Reduction</sub></td>
 </tr>
 </table>
 
 <br/>
 
-<img src="./section-01-field.svg" width="100%" alt="Chapter 01 / The Field — go where the problem lives"/>
+<img src="./section-01-field.svg" width="100%" alt="Chapter 01 / The Field - go where the problem lives"/>
 
 <table width="100%" cellspacing="0" cellpadding="8">
 <tr>
@@ -73,24 +75,24 @@ Frontend applications, backend services, REST APIs, authentication, microservice
 
 #### 🧠 Applied AI
 
-LLM applications, agentic systems, RAG pipelines, vector search, fine-tuning, tool use, prompt systems, and production AI orchestration — applied to real workflows, not benchmarks.
+LLM applications, agentic systems, RAG pipelines, vector search, fine-tuning, tool use, prompt systems, and production AI orchestration - applied to real workflows, not benchmarks.
 
 </td>
 <td width="50%" valign="top">
 
 #### ⚙️ Automation & Infra
 
-Business process automation, AI-integrated workflows, event-driven pipelines, scraping and data extraction — deployed on Docker, Kubernetes, CI/CD, with observability built in.
+Business process automation, AI-integrated workflows, event-driven pipelines, scraping and data extraction - deployed on Docker, Kubernetes, CI/CD, with observability built in.
 
 </td>
 </tr>
 </table>
 
-<img src="./section-02-build.svg" width="100%" alt="Chapter 02 / The Build — architect it end-to-end"/>
+<img src="./section-02-build.svg" width="100%" alt="Chapter 02 / The Build - architect it end-to-end"/>
 
 <img src="./architecture.svg" width="100%" alt="Field-to-production pipeline: interfaces → API layer → AI orchestration → workflows → data & infra, with a telemetry/evals feedback loop"/>
 
-<img src="./section-03-shipments.svg" width="100%" alt="Chapter 03 / The Shipments — ship things people use"/>
+<img src="./section-03-shipments.svg" width="100%" alt="Chapter 03 / The Shipments - ship things people use"/>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
@@ -185,7 +187,7 @@ Business process automation, AI-integrated workflows, event-driven pipelines, sc
 </tr>
 </table>
 
-<img src="./section-04-toolkit.svg" width="100%" alt="Chapter 04 / The Toolkit — right tool, right layer"/>
+<img src="./section-04-toolkit.svg" width="100%" alt="Chapter 04 / The Toolkit - right tool, right layer"/>
 
 **Languages**
 
@@ -221,6 +223,7 @@ Business process automation, AI-integrated workflows, event-driven pipelines, sc
 
 **Backend & APIs**
 
+![NestJS](https://img.shields.io/badge/-NestJS-101714?style=flat&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-101714?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-101714?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-101714?style=flat&logo=express&logoColor=white)
@@ -245,6 +248,7 @@ Business process automation, AI-integrated workflows, event-driven pipelines, sc
 ![Pinecone](https://img.shields.io/badge/-Pinecone-101714?style=flat&logoColor=white)
 ![Chroma](https://img.shields.io/badge/-Chroma-101714?style=flat&logoColor=white)
 ![pgvector](https://img.shields.io/badge/-pgvector-101714?style=flat&logo=postgresql&logoColor=white)
+![sqlite-vec](https://img.shields.io/badge/-sqlite--vec-101714?style=flat&logo=sqlite&logoColor=white)
 
 **Cloud · DevOps · Tools**
 
@@ -256,18 +260,38 @@ Business process automation, AI-integrated workflows, event-driven pipelines, sc
 ![Jenkins](https://img.shields.io/badge/-Jenkins-101714?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-101714?style=flat&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-101714?style=flat&logo=nginx&logoColor=white)
+![Tailscale](https://img.shields.io/badge/-Tailscale-101714?style=flat&logo=tailscale&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-101714?style=flat&logo=linux&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-101714?style=flat&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-101714?style=flat&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-101714?style=flat&logo=git&logoColor=white)
 
-<img src="./section-05-proof.svg" width="100%" alt="Chapter 05 / The Proof — receipts, not promises"/>
+<img src="./section-05-proof.svg" width="100%" alt="Chapter 05 / The Proof - receipts, not promises"/>
+
+**Experience**
+
+<table width="100%">
+<tr><td><b>Uno O.S.</b> · AI Architect</td><td align="right"><sub>Apr 2026 – Present</sub></td></tr>
+<tr><td colspan="2"><sub>Architecting production AI systems and agent infrastructure; evaluation, monitoring, and rollout patterns that ship reliably and scale across teams.</sub></td></tr>
+<tr><td><b>Gridcore</b> · Lead Full-Stack & AI Engineer</td><td align="right"><sub>Dec 2023 – Jun 2026</sub></td></tr>
+<tr><td colspan="2"><sub>Took enterprise clients from ambiguous problem framing through discovery, build, and deployment. Full-stack products in React/Next.js + NestJS/PostgreSQL, RAG pipelines on real client data, an 8-agent orchestration platform, 99.9% reliability.</sub></td></tr>
+<tr><td><b>NDT Legacy Group</b> · Senior AI Engineer</td><td align="right"><sub>Aug 2025 – Apr 2026</sub></td></tr>
+<tr><td colspan="2"><sub>Enterprise AI automation platforms processing 10K+ daily transactions at 99.9% uptime; 40% cost reduction through intelligent automation.</sub></td></tr>
+<tr><td><b>Schmoozzer</b> · Senior AI Engineer (Contract)</td><td align="right"><sub>Oct 2025 – Jan 2026</sub></td></tr>
+<tr><td><b>Brilliant Gaming LLC</b> · QA Automation Engineer (Contract)</td><td align="right"><sub>Feb 2025 – Sep 2025</sub></td></tr>
+<tr><td><b>Independent Consultant</b> · Upwork / Fiverr</td><td align="right"><sub>2019 – Present</sub></td></tr>
+<tr><td colspan="2"><sub>100+ AI automation solutions, 20+ LLM fine-tuning projects, no-code AI workflows serving 10K+ users.</sub></td></tr>
+</table>
+
+**Education**
+
+- **BS Computer Science** · Air University, Islamabad (2020 – 2024) · Focus: AI, Machine Learning, Data & Cloud
 
 **Certifications**
 
-- **Certified Ethical Hacker – Practical (CEH-P)**
-- **Practical Ethical Hacking (PEH)**
-- **ISO/IEC 27001 Information Security Associate**
+- **Certified Ethical Hacker Practical (CEH-P)** · NUST-NCAI / NAVTTC, 2024
+- **Practical Ethical Hacking (PEH)** · TCM Security, 2023
+- **ISO/IEC 27001 Information Security Associate** · SkillFront, 2023
 
 <img src="./divider.svg" width="100%" alt=""/>
 
@@ -285,4 +309,4 @@ Business process automation, AI-integrated workflows, event-driven pipelines, sc
 
 <br/>
 
-<img src="./footer.svg" width="100%" alt="Still building"/>
+<img src="./outro.svg" width="100%" alt="Still building"/>

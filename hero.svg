@@ -42,7 +42,7 @@
 <text x="90" y="412" fill="#5d7268" font-size="15" class="t4">press &#9660; scroll to begin the run<tspan class="cursor" fill="#3ECF8E">&#9608;</tspan></text>
 </g>
 
-<!-- RIGHT: pixel scene — engineer at battlestation -->
+<!-- RIGHT: pixel scene - engineer at battlestation -->
 <g class="glow"><ellipse cx="1250" cy="290" rx="260" ry="150" fill="#12201a"/></g>
 <g transform="translate(1050,150)">
 <!-- monitor -->
