@@ -1,0 +1,64 @@
+<svg width="1600" height="190" viewBox="0 0 1600 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+.mono { font-family: 'Courier New', Courier, monospace; }
+.pick { animation: pick 2.6s ease-in-out infinite; }
+.gl1 { animation: g 2.2s ease-in-out infinite; }
+.gl2 { animation: g 2.2s ease-in-out 0.55s infinite; }
+.gl3 { animation: g 2.2s ease-in-out 1.1s infinite; }
+@keyframes pick { 0%,100% { transform: translateX(0); } 50% { transform: translateX(10px); } }
+@keyframes g { 0%,100% { opacity: 0.35; } 50% { opacity: 1; } }
+</style></defs>
+<rect width="1600" height="190" fill="#0B0F0E"/>
+<rect x="0" y="0" width="1600" height="3" fill="#22302a"/>
+
+<rect x="60" y="150" width="560" height="3" fill="#22302a"/>
+
+<!-- toolkit wall: hanging slots -->
+<g>
+<rect x="300" y="46" width="290" height="104" fill="#101714" stroke="#22302a" stroke-width="2"/>
+<g class="gl1"><rect x="322" y="66" width="22" height="22" fill="#3ECF8E"/></g>
+<g class="gl2"><rect x="362" y="66" width="22" height="22" fill="#20805F"/></g>
+<g class="gl3"><rect x="402" y="66" width="22" height="22" fill="#8AB4A5"/></g>
+<g class="gl2"><rect x="442" y="66" width="22" height="22" fill="#3ECF8E"/></g>
+<g class="gl1"><rect x="482" y="66" width="22" height="22" fill="#20805F"/></g>
+<g class="gl3"><rect x="522" y="66" width="22" height="22" fill="#8AB4A5"/></g>
+<g class="gl3"><rect x="322" y="108" width="22" height="22" fill="#20805F"/></g>
+<g class="gl1"><rect x="362" y="108" width="22" height="22" fill="#8AB4A5"/></g>
+<g class="gl2"><rect x="402" y="108" width="22" height="22" fill="#3ECF8E"/></g>
+<g class="gl3"><rect x="442" y="108" width="22" height="22" fill="#20805F"/></g>
+<g class="gl2"><rect x="482" y="108" width="22" height="22" fill="#3ECF8E"/></g>
+<g class="gl1"><rect x="522" y="108" width="22" height="22" fill="#20805F"/></g>
+</g>
+<!-- engineer reaching for a tool -->
+<g class="pick">
+<g transform="translate(170,66) scale(6)">
+<rect x="4" y="0" width="5" height="1" fill="#3ECF8E"/>
+<rect x="4" y="1" width="6" height="1" fill="#3ECF8E"/>
+<rect x="4" y="2" width="5" height="3" fill="#ECF4EF"/>
+<rect x="8" y="3" width="1" height="1" fill="#0B0F0E"/>
+<rect x="3" y="5" width="6" height="4" fill="#20805F"/>
+<rect x="9" y="4" width="3" height="1" fill="#20805F"/>
+<rect x="12" y="4" width="1" height="1" fill="#ECF4EF"/>
+<rect x="4" y="9" width="2" height="4" fill="#ECF4EF"/>
+<rect x="7" y="9" width="2" height="4" fill="#ECF4EF"/>
+<rect x="3" y="13" width="3" height="1" fill="#3ECF8E"/>
+<rect x="7" y="13" width="3" height="1" fill="#3ECF8E"/>
+</g>
+</g>
+
+<!-- text -->
+<g class="mono">
+<text x="700" y="86" fill="#3ECF8E" font-size="15" letter-spacing="3">CHAPTER 04 / THE TOOLKIT</text>
+<text x="698" y="126" fill="#ECF4EF" font-size="30" font-weight="700" letter-spacing="2">RIGHT TOOL, RIGHT LAYER</text>
+<text x="700" y="158" fill="#5d7268" font-size="15">languages &#183; frameworks &#183; models &#183; picked for the job, not the hype</text>
+</g>
+
+<g>
+<rect x="1440" y="86" width="12" height="12" rx="2" fill="#3ECF8E"/>
+<rect x="1462" y="86" width="12" height="12" rx="2" fill="#3ECF8E"/>
+<rect x="1484" y="86" width="12" height="12" rx="2" fill="#3ECF8E"/>
+<rect x="1506" y="86" width="12" height="12" rx="2" fill="#3ECF8E"/>
+<rect x="1528" y="86" width="12" height="12" rx="2" fill="#1a2620"/>
+</g>
+<rect x="0" y="187" width="1600" height="3" fill="#22302a"/>
+</svg>

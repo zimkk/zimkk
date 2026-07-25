@@ -1,0 +1,65 @@
+<svg width="1600" height="190" viewBox="0 0 1600 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+.mono { font-family: 'Courier New', Courier, monospace; }
+.rocket { animation: launch 3.2s ease-in infinite; }
+.flame { animation: fl 0.3s steps(2) infinite; }
+.crate { animation: nudge 2.4s steps(2) infinite; }
+@keyframes launch { 0% { transform: translateY(0); } 70% { transform: translateY(-46px); } 100% { transform: translateY(-46px); opacity: 0; } }
+@keyframes fl { 50% { opacity: 0.4; } }
+@keyframes nudge { 50% { transform: translateY(-2px); } }
+</style></defs>
+<rect width="1600" height="190" fill="#0B0F0E"/>
+<rect x="0" y="0" width="1600" height="3" fill="#22302a"/>
+
+<rect x="60" y="150" width="560" height="3" fill="#22302a"/>
+
+<!-- crates: shipped goods -->
+<g class="crate">
+<rect x="150" y="112" width="38" height="38" fill="#101714" stroke="#22302a" stroke-width="2"/>
+<path d="M150 131 H188 M169 112 V150" stroke="#22302a" stroke-width="2"/>
+<rect x="196" y="124" width="26" height="26" fill="#101714" stroke="#22302a" stroke-width="2"/>
+</g>
+<!-- engineer pushing crate toward pad -->
+<g transform="translate(240,66) scale(6)">
+<rect x="4" y="0" width="5" height="1" fill="#3ECF8E"/>
+<rect x="4" y="1" width="6" height="1" fill="#3ECF8E"/>
+<rect x="4" y="2" width="5" height="3" fill="#ECF4EF"/>
+<rect x="8" y="3" width="1" height="1" fill="#0B0F0E"/>
+<rect x="3" y="5" width="6" height="4" fill="#20805F"/>
+<rect x="9" y="6" width="3" height="1" fill="#20805F"/>
+<rect x="12" y="6" width="1" height="1" fill="#ECF4EF"/>
+<rect x="4" y="9" width="2" height="4" fill="#ECF4EF"/>
+<rect x="7" y="9" width="2" height="4" fill="#ECF4EF"/>
+<rect x="3" y="13" width="3" height="1" fill="#3ECF8E"/>
+<rect x="7" y="13" width="3" height="1" fill="#3ECF8E"/>
+</g>
+<!-- launch pad + rocket -->
+<rect x="430" y="146" width="90" height="6" fill="#22302a"/>
+<g class="rocket">
+<rect x="462" y="70" width="26" height="52" fill="#ECF4EF"/>
+<rect x="462" y="60" width="26" height="10" fill="#3ECF8E"/>
+<rect x="456" y="112" width="8" height="14" fill="#20805F"/>
+<rect x="486" y="112" width="8" height="14" fill="#20805F"/>
+<rect x="470" y="86" width="10" height="10" fill="#0B0F0E"/>
+<g class="flame">
+<rect x="466" y="124" width="8" height="10" fill="#3ECF8E"/>
+<rect x="476" y="124" width="8" height="14" fill="#8AB4A5"/>
+</g>
+</g>
+
+<!-- text -->
+<g class="mono">
+<text x="700" y="86" fill="#3ECF8E" font-size="15" letter-spacing="3">CHAPTER 03 / THE SHIPMENTS</text>
+<text x="698" y="126" fill="#ECF4EF" font-size="30" font-weight="700" letter-spacing="2">SHIP THINGS PEOPLE USE</text>
+<text x="700" y="158" fill="#5d7268" font-size="15">platforms &#183; agents &#183; experiments &#183; every one of them live</text>
+</g>
+
+<g>
+<rect x="1440" y="86" width="12" height="12" rx="2" fill="#3ECF8E"/>
+<rect x="1462" y="86" width="12" height="12" rx="2" fill="#3ECF8E"/>
+<rect x="1484" y="86" width="12" height="12" rx="2" fill="#3ECF8E"/>
+<rect x="1506" y="86" width="12" height="12" rx="2" fill="#1a2620"/>
+<rect x="1528" y="86" width="12" height="12" rx="2" fill="#1a2620"/>
+</g>
+<rect x="0" y="187" width="1600" height="3" fill="#22302a"/>
+</svg>

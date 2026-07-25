@@ -1,10 +1,64 @@
-<svg width="1600" height="260" viewBox="0 0 1600 260" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="1600" height="260" fill="#000000"/>
-<path d="M0 70H1600" stroke="#1A4FFF" stroke-width="1"/>
-<path d="M0 72H1600" stroke="#FFFFFF" stroke-width="1" opacity="0.08"/>
-<path d="M0 210C300 160 480 250 760 185C1040 120 1260 190 1600 115" stroke="#1A4FFF" opacity="0.35"/>
-<circle cx="150" cy="155" r="35" stroke="#1A4FFF" opacity="0.45"/>
-<circle cx="150" cy="155" r="12" fill="#1A4FFF"/>
-<text x="800" y="135" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="7">STILL BUILDING</text>
-<text x="800" y="175" text-anchor="middle" fill="#666666" font-family="monospace" font-size="16">AI systems • automation • software • infrastructure • experiments</text>
+<svg width="1600" height="320" viewBox="0 0 1600 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+.mono { font-family: 'Courier New', Courier, monospace; }
+.cursor { animation: blink 1.1s steps(1) infinite; }
+.flag { animation: wave 1.6s steps(2) infinite; transform-origin: left; }
+.star { animation: tw 2.6s ease-in-out infinite; }
+.star2 { animation: tw 2.6s ease-in-out 1.3s infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+@keyframes wave { 50% { transform: skewY(-4deg); } }
+@keyframes tw { 0%,100% { opacity: 0.2; } 50% { opacity: 0.9; } }
+</style></defs>
+<rect width="1600" height="320" fill="#0B0F0E"/>
+<rect x="0" y="0" width="1600" height="3" fill="#22302a"/>
+
+<!-- stars -->
+<g fill="#22302a">
+<rect class="star" x="260" y="60" width="5" height="5"/>
+<rect class="star2" x="480" y="40" width="5" height="5"/>
+<rect class="star" x="1140" y="56" width="5" height="5"/>
+<rect class="star2" x="1360" y="80" width="5" height="5"/>
+<rect class="star" x="880" y="34" width="5" height="5"/>
+</g>
+
+<!-- mountain range: pixel steps, climbed peak left, next peak right -->
+<g fill="#101714">
+<path d="M120 280 H220 V250 H250 V220 H280 V190 H310 V160 H340 V190 H370 V220 H400 V250 H430 V280 Z"/>
+<path d="M980 280 H1100 V240 H1140 V200 H1180 V160 H1220 V120 H1260 V160 H1300 V200 H1340 V240 H1380 V280 Z" />
+</g>
+<path d="M1180 160 H1260 V120 H1220 Z" fill="#12201a"/>
+
+<!-- summit: engineer + planted flag on climbed peak -->
+<g transform="translate(292,74) scale(5)">
+<rect x="4" y="0" width="5" height="1" fill="#3ECF8E"/>
+<rect x="4" y="1" width="6" height="1" fill="#3ECF8E"/>
+<rect x="4" y="2" width="5" height="3" fill="#ECF4EF"/>
+<rect x="8" y="3" width="1" height="1" fill="#0B0F0E"/>
+<rect x="3" y="5" width="6" height="4" fill="#20805F"/>
+<rect x="4" y="9" width="2" height="4" fill="#ECF4EF"/>
+<rect x="7" y="9" width="2" height="4" fill="#ECF4EF"/>
+<rect x="3" y="13" width="3" height="1" fill="#3ECF8E"/>
+<rect x="7" y="13" width="3" height="1" fill="#3ECF8E"/>
+</g>
+<rect x="262" y="86" width="4" height="74" fill="#8AB4A5"/>
+<g class="flag"><path d="M266 86 H320 L306 100 L320 114 H266 Z" fill="#3ECF8E"/></g>
+
+<!-- next-peak marker -->
+<g class="star">
+<rect x="1216" y="96" width="8" height="8" fill="#3ECF8E"/>
+</g>
+<text x="1244" y="106" fill="#5d7268" class="mono" font-size="13">next quest</text>
+
+<!-- center message -->
+<g class="mono">
+<text x="800" y="150" text-anchor="middle" fill="#ECF4EF" font-size="34" font-weight="700" letter-spacing="10">STILL BUILDING</text>
+<text x="800" y="188" text-anchor="middle" fill="#5d7268" font-size="15">one summit is just the view of the next one</text>
+<text x="800" y="240" text-anchor="middle" fill="#8AB4A5" font-size="14">$ run continue --save=progress --quest=next<tspan class="cursor" fill="#3ECF8E">&#9608;</tspan></text>
+</g>
+
+<rect x="0" y="286" width="1600" height="3" fill="#22302a"/>
+<g class="mono">
+<text x="800" y="308" text-anchor="middle" fill="#5d7268" font-size="12">thanks for playing &#183; hassannazir.dev</text>
+</g>
+<rect x="0" y="316" width="1600" height="4" fill="#3ECF8E"/>
 </svg>

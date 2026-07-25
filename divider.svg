@@ -1,0 +1,15 @@
+<svg width="1600" height="36" viewBox="0 0 1600 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.p1 { animation: b 2.2s ease-in-out infinite; }
+.p2 { animation: b 2.2s ease-in-out 0.55s infinite; }
+.p3 { animation: b 2.2s ease-in-out 1.1s infinite; }
+@keyframes b { 50% { opacity: 0.3; } }
+</style>
+</defs>
+<rect x="0" y="17" width="720" height="1.5" fill="#22302a"/>
+<rect x="880" y="17" width="720" height="1.5" fill="#22302a"/>
+<rect class="p1" x="756" y="12" width="11" height="11" rx="2" fill="#3ECF8E"/>
+<rect class="p2" x="794" y="12" width="11" height="11" rx="2" fill="#20805F"/>
+<rect class="p3" x="832" y="12" width="11" height="11" rx="2" fill="#8AB4A5"/>
+</svg>

@@ -1,0 +1,95 @@
+<svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="abg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#0B0F0E"/>
+<stop offset="1" stop-color="#0d1310"/>
+</linearGradient>
+<linearGradient id="aacc" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#3ECF8E"/>
+<stop offset="1" stop-color="#20805F"/>
+</linearGradient>
+<style>
+.mono { font-family: 'Courier New', Courier, monospace; }
+.flow { stroke-dasharray: 4 8; animation: f 2.2s linear infinite; }
+@keyframes f { to { stroke-dashoffset: -48; } }
+</style>
+</defs>
+<rect width="1600" height="560" fill="url(#abg)"/>
+
+<g opacity="0.045" stroke="#8AB4A5">
+<path d="M0 140H1600M0 280H1600M0 420H1600"/>
+<path d="M320 0V560M640 0V560M960 0V560M1280 0V560"/>
+</g>
+
+<!-- title -->
+<text x="80" y="66" fill="#8AB4A5" class="mono" font-size="15">$ map --pipeline</text>
+<text x="78" y="104" fill="#ECF4EF" class="mono" font-size="29" font-weight="700" letter-spacing="2">FIELD-TO-PRODUCTION PIPELINE</text>
+<rect x="80" y="120" width="46" height="4" fill="url(#aacc)"/>
+
+<!-- layer cards -->
+<g class="mono">
+<rect x="80" y="164" width="272" height="128" rx="10" fill="#101714" stroke="#22302a" stroke-width="1.5"/>
+<rect x="80" y="164" width="272" height="6" rx="3" fill="#20805F"/>
+<text x="104" y="206" fill="#5d7268" font-size="13" letter-spacing="2">[01] EXPERIENCE</text>
+<text x="104" y="238" fill="#ECF4EF" font-size="20" font-weight="700">Interfaces</text>
+<text x="104" y="268" fill="#5d7268" font-size="13">React &#183; Next.js &#183; Tailwind</text>
+
+<rect x="372" y="164" width="272" height="128" rx="10" fill="#101714" stroke="#22302a" stroke-width="1.5"/>
+<rect x="372" y="164" width="272" height="6" rx="3" fill="#20805F"/>
+<text x="396" y="206" fill="#5d7268" font-size="13" letter-spacing="2">[02] SERVICES</text>
+<text x="396" y="238" fill="#ECF4EF" font-size="20" font-weight="700">API Layer</text>
+<text x="396" y="268" fill="#5d7268" font-size="13">FastAPI &#183; Node &#183; Django</text>
+
+<rect x="664" y="164" width="272" height="128" rx="10" fill="#12201a" stroke="#3ECF8E" stroke-width="1.5"/>
+<rect x="664" y="164" width="272" height="6" rx="3" fill="#3ECF8E"/>
+<text x="688" y="206" fill="#3ECF8E" font-size="13" letter-spacing="2">[03] INTELLIGENCE</text>
+<text x="688" y="238" fill="#ECF4EF" font-size="20" font-weight="700">AI Orchestration</text>
+<text x="688" y="268" fill="#8AB4A5" font-size="13">Agents &#183; RAG &#183; Tools &#183; LLMs</text>
+
+<rect x="956" y="164" width="272" height="128" rx="10" fill="#101714" stroke="#22302a" stroke-width="1.5"/>
+<rect x="956" y="164" width="272" height="6" rx="3" fill="#20805F"/>
+<text x="980" y="206" fill="#5d7268" font-size="13" letter-spacing="2">[04] AUTOMATION</text>
+<text x="980" y="238" fill="#ECF4EF" font-size="20" font-weight="700">Workflows</text>
+<text x="980" y="268" fill="#5d7268" font-size="13">n8n &#183; events &#183; pipelines</text>
+
+<rect x="1248" y="164" width="272" height="128" rx="10" fill="#101714" stroke="#22302a" stroke-width="1.5"/>
+<rect x="1248" y="164" width="272" height="6" rx="3" fill="#20805F"/>
+<text x="1272" y="206" fill="#5d7268" font-size="13" letter-spacing="2">[05] FOUNDATION</text>
+<text x="1272" y="238" fill="#ECF4EF" font-size="20" font-weight="700">Data &amp; Infra</text>
+<text x="1272" y="268" fill="#5d7268" font-size="13">Postgres &#183; Redis &#183; Vectors &#183; K8s</text>
+</g>
+
+<!-- connectors -->
+<g stroke="#3ECF8E" stroke-width="1.5" fill="none">
+<path class="flow" d="M352 228H372"/>
+<path class="flow" d="M644 228H664"/>
+<path class="flow" d="M936 228H956"/>
+<path class="flow" d="M1228 228H1248"/>
+</g>
+
+<!-- feedback loop -->
+<path class="flow" d="M1384 292V340H216V292" stroke="#20805F" opacity="0.8" fill="none" stroke-width="1.5"/>
+<text x="800" y="332" text-anchor="middle" fill="#5d7268" class="mono" font-size="13">&lt;&lt; feedback loop: telemetry / evals / user signal &lt;&lt;</text>
+
+<!-- principles strip -->
+<g class="mono">
+<rect x="80" y="396" width="1440" height="1.5" fill="#22302a"/>
+<rect x="80" y="438" width="12" height="12" rx="2" fill="#3ECF8E"/>
+<text x="108" y="450" fill="#ECF4EF" font-size="17" font-weight="700">RELIABLE</text>
+<text x="108" y="477" fill="#5d7268" font-size="13">survives production</text>
+
+<rect x="450" y="438" width="12" height="12" rx="2" fill="#20805F"/>
+<text x="478" y="450" fill="#ECF4EF" font-size="17" font-weight="700">OBSERVABLE</text>
+<text x="478" y="477" fill="#5d7268" font-size="13">measured, not guessed</text>
+
+<rect x="850" y="438" width="12" height="12" rx="2" fill="#8AB4A5"/>
+<text x="878" y="450" fill="#ECF4EF" font-size="17" font-weight="700">SCALABLE</text>
+<text x="878" y="477" fill="#5d7268" font-size="13">grows with usage</text>
+
+<rect x="1210" y="438" width="12" height="12" rx="2" fill="#ECF4EF"/>
+<text x="1238" y="450" fill="#ECF4EF" font-size="17" font-weight="700">IMPACT-FIRST</text>
+<text x="1238" y="477" fill="#5d7268" font-size="13">outcomes over tech</text>
+</g>
+
+<rect x="0" y="556" width="1600" height="4" fill="url(#aacc)"/>
+</svg>

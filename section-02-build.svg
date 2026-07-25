@@ -1,0 +1,62 @@
+<svg width="1600" height="190" viewBox="0 0 1600 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+.mono { font-family: 'Courier New', Courier, monospace; }
+.lift { animation: lift 2.4s ease-in-out infinite; }
+.spark { animation: sp 1.6s steps(2) infinite; }
+@keyframes lift { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
+@keyframes sp { 50% { opacity: 0.2; } }
+</style></defs>
+<rect width="1600" height="190" fill="#0B0F0E"/>
+<rect x="0" y="0" width="1600" height="3" fill="#22302a"/>
+
+<!-- scene: engineer stacking system blocks -->
+<rect x="60" y="150" width="560" height="3" fill="#22302a"/>
+<!-- stacked blocks: the system layers -->
+<g class="mono">
+<rect x="330" y="122" width="150" height="28" fill="#101714" stroke="#22302a" stroke-width="2"/>
+<text x="352" y="141" fill="#5d7268" font-size="12">data / infra</text>
+<rect x="340" y="94" width="130" height="28" fill="#101714" stroke="#22302a" stroke-width="2"/>
+<text x="362" y="113" fill="#5d7268" font-size="12">apis</text>
+<rect x="350" y="66" width="110" height="28" fill="#12201a" stroke="#3ECF8E" stroke-width="2"/>
+<text x="372" y="85" fill="#3ECF8E" font-size="12">ai layer</text>
+<!-- block being placed -->
+<g class="lift">
+<rect x="360" y="34" width="90" height="26" fill="#101714" stroke="#8AB4A5" stroke-width="2"/>
+<text x="378" y="52" fill="#8AB4A5" font-size="12">ui</text>
+</g>
+</g>
+<!-- builder: arms up -->
+<g transform="translate(180,66) scale(6)">
+<rect x="4" y="0" width="5" height="1" fill="#3ECF8E"/>
+<rect x="4" y="1" width="6" height="1" fill="#3ECF8E"/>
+<rect x="4" y="2" width="5" height="3" fill="#ECF4EF"/>
+<rect x="8" y="3" width="1" height="1" fill="#0B0F0E"/>
+<rect x="3" y="5" width="6" height="4" fill="#20805F"/>
+<rect x="9" y="3" width="1" height="2" fill="#20805F"/>
+<rect x="10" y="2" width="1" height="1" fill="#ECF4EF"/>
+<rect x="4" y="9" width="2" height="4" fill="#ECF4EF"/>
+<rect x="7" y="9" width="2" height="4" fill="#ECF4EF"/>
+<rect x="3" y="13" width="3" height="1" fill="#3ECF8E"/>
+<rect x="7" y="13" width="3" height="1" fill="#3ECF8E"/>
+</g>
+<!-- sparks -->
+<g class="spark" fill="#3ECF8E">
+<rect x="300" y="46" width="5" height="5"/><rect x="316" y="34" width="5" height="5"/><rect x="290" y="70" width="5" height="5"/>
+</g>
+
+<!-- text -->
+<g class="mono">
+<text x="700" y="86" fill="#3ECF8E" font-size="15" letter-spacing="3">CHAPTER 02 / THE BUILD</text>
+<text x="698" y="126" fill="#ECF4EF" font-size="30" font-weight="700" letter-spacing="2">ARCHITECT IT END-TO-END</text>
+<text x="700" y="158" fill="#5d7268" font-size="15">one pipeline from interface to infra &#183; AI where it earns its place</text>
+</g>
+
+<g>
+<rect x="1440" y="86" width="12" height="12" rx="2" fill="#3ECF8E"/>
+<rect x="1462" y="86" width="12" height="12" rx="2" fill="#3ECF8E"/>
+<rect x="1484" y="86" width="12" height="12" rx="2" fill="#1a2620"/>
+<rect x="1506" y="86" width="12" height="12" rx="2" fill="#1a2620"/>
+<rect x="1528" y="86" width="12" height="12" rx="2" fill="#1a2620"/>
+</g>
+<rect x="0" y="187" width="1600" height="3" fill="#22302a"/>
+</svg>
