@@ -172,14 +172,6 @@
 
 ---
 
-### 𝗦𝘁𝗮𝘁𝘀
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=zimkk&hide_border=true&background=000000&ring=1A4FFF&fire=1A4FFF&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff&stroke=000000)
-
-</div>
-
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zimkk&bg_color=000000&color=ffffff&line=1A4FFF&point=ffffff&area=true&area_color=10182f&hide_border=true&radius=6"/>
 </div>
