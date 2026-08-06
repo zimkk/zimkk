@@ -154,16 +154,16 @@ Business process automation, AI-integrated workflows, event-driven pipelines, sc
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="64%" valign="top" style="padding:18px 22px;background:#101714;border:1px solid #22302a;border-right:none;border-radius:8px 0 0 8px;">
-<h3>Legal Document Summarizer</h3>
-<p>An AI document-processing application focused on transforming dense legal documents into useful summaries and extracted information.</p>
-<a href="https://github.com/zimkk/legal-Document-Summerizer"><img src="https://img.shields.io/badge/GITHUB-zimkk%2Flegal--Document--Summerizer-101714?style=flat-square&logo=github&logoColor=white"/></a>
+<h3>Lead Scrapper - Google Maps</h3>
+<p>An Intelligent lead scraper that is interactive and gets you qualified leads scraped through google maps</p>
+<a href="https://github.com/zimkk/lead-scrapper-for-google-maps"><img src="https://img.shields.io/badge/GITHUB-zimkk%2Flegal--Document--Summerizer-101714?style=flat-square&logo=github&logoColor=white"/></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-12201a?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-12201a?style=flat-square"/>
 <img src="https://img.shields.io/badge/LLM%20Applications-12201a?style=flat-square"/>
 </td>
 <td width="36%" valign="middle" style="background:#12201a;border:1px solid #22302a;border-left:none;border-radius:0 8px 8px 0;overflow:hidden;">
-<img src="https://opengraph.githubassets.com/1/zimkk/legal-Document-Summerizer" width="100%" alt="Legal Document Summarizer"/>
+<img src="https://opengraph.githubassets.com/1/zimkk/lead-scrapper-for-google-maps" width="100%" alt="Lead Scrapper - Google Maps"/>
 </td>
 </tr>
 </table>
